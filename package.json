@@ -1,0 +1,22 @@
+{
+  "name": "07webserverhttpexpresshbs",
+  "version": "1.0.0",
+  "description": "Web Server HTTP Express HBS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon server.js"
+  },
+  "keywords": [
+    "WebServer",
+    "Express",
+    "HBS"
+  ],
+  "author": "Humberto Valenzuela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.2.0"
+  }
+}
