@@ -108,4 +108,26 @@ console.log('Escuchando el puerto8080');
 // Terminal - npm run nodemon
 // Notar la diferencia: start es una palabra especial
 // Heroku va a ejecutar el comando "start": "node server.js"
+// Create a new Git repository
 // Crear .gitignore
+// git init - git add . - git commit -m "Comentario"
+// Logear en heroku para que el sgte comando funcione
+// teminal - heroku login
+// Se debe abrir el navegador - Login
+// heroku git:remote -a node07webserver
+// Deploy your application
+// git push heroku master
+// Entrega una dirección web 
+// https://node07webserver.herokuapp.com/ deployed to Heroku
+// Terminal: o otra alternativa es: heroku open
+
+// 072 Subir a GitHub los cambios - Webserver - Express- Heroku - HBS
+// Subido el proyecto 07 a heroku.
+// ir a heroku - deploy - el tutorial cambiará
+// heroku login
+// heroku git:clone -a node07webserver
+// Sirve para reconstruir el proyecto
+// Github - crear repositorio
+// proyecto -crear readme.md
+// git add .
+// 
